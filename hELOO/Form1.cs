@@ -16,5 +16,10 @@ namespace hELOO
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("LOL U AINT NO FORTNITE CHAMP"); 
+        }
     }
 }
